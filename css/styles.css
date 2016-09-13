@@ -246,39 +246,6 @@ a {
 	max-width: 290px;
 	padding: 0 2px 4px 2px;
 }   
-
-/* GIF Section */
-.left-sidebar .blue {
-	background: #009EE3;
-	height: 218px;
-	max-height: 218px;
-	color: #FFF;
-} 
-.left-sidebar .caption-1line {
-	font-size: 18px;
-	font-weight: 700;
-	color: #FFF;
-}
-.left-sidebar .caption-2line {
-	font-size: 22px;
-	font-weight: 300;
-	color: #FFF;
-}
-.left-sidebar .caption-3line {
-	font-size: 22px;
-	font-weight: 700;
-	color: #FFF;
-}
-.left-sidebar .caption-4line {
-	font-size: 22px;
-	font-weight: 300;
-	color: #FFF;
-} 
-/*.left-sidebar .img {
-	width: 100%;
-	max-width: 80px;
-	height: auto;
-}*/
 .left-sidebar .contents {
 	font-size: 14px;
 	text-align: center;
@@ -287,7 +254,7 @@ a {
 	color: #85ab70;
 }
 .left-sidebar .header-side-promo {
-	background: #f0f3e8;
+	background: #e6eb1d;
 	height: 350px;
 	max-height: 350px;
 }
