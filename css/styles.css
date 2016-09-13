@@ -230,18 +230,19 @@ a {
 	background: #F7F7F7;
 }
 .left-sidebar .text-medios {
-	max-width: 450px;
+	max-width: 400px;
 }
 .left-sidebar .logo-medios {
-	max-width: 150px;
+	max-width: 200px;
 }
 .left-sidebar .text-content {
-	font-size: 18px;
+	font-size: 22px;
 	color: #009EE3;
 	padding: 8px 0;
+	font-weight: 300;
 }
 .left-sidebar .logo-content {
-	padding: 10px;
+	padding: 10px 0;
 }
 
 
@@ -321,6 +322,7 @@ a {
 	font-size: 13px;
 	height: 60px;
 	max-height: 60px;
+	font-weight: 300;
 }
 .left-sidebar .bold {
 	font-weight: 700;
