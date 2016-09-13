@@ -263,9 +263,10 @@ a {
 	color: #85ab70;
 }
 .left-sidebar .header-side-promo {
-	background: #95be22;
+	background: #FFF;
 	height: 350px;
 	max-height: 350px;
+	border: 1px solid #95be22;
 }
 .left-sidebar .wrapper-side-promo {
 	background: #FFF;
